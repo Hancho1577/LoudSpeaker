@@ -5,5 +5,5 @@
 ## 의존 플러그인
 - EconomyAPI
 
-##의존 플러그인(Soft)
+## 의존 플러그인(Soft)
 - HFriend
