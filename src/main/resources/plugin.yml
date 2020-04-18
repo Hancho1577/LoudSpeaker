@@ -1,0 +1,10 @@
+name: LoudSpeaker
+author: Hancho
+version: 1.0.0
+main: loudSpeaker.LoudSpeaker
+api: [1.0.0]
+
+commands:
+    확성기:
+     description: 확성기를 사용하여 효율적으로 메세지를 전달하여보세요.
+     permission: 'true'
